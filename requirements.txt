@@ -1,0 +1,6 @@
+dotenv
+bs4
+openai
+typing
+requests
+PyPDF2
